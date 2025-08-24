@@ -20,7 +20,7 @@ The script builds school.db and prints results for the queries.
 - Missing-submission detection
 
 ## How to run
--  ```bash
+-  use a bash Terminal
 -  chmod +x run.sh
 -  ./run.sh
 
