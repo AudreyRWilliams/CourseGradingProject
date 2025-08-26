@@ -24,4 +24,6 @@ The script builds school.db and prints results for the queries.
 -  chmod +x run.sh
 -  ./run.sh
 
+## 1) Create the project structure
+<img width="612" height="220" alt="Screen Shot 2025-08-25 at 8 05 12 PM" src="https://github.com/user-attachments/assets/6b807008-116c-44ad-bc4c-d9a7cc5ea096" /> <br>
 
