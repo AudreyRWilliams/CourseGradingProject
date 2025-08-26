@@ -10,7 +10,7 @@ This project creates a small student/course database with constraints, triggers,
      - Top 3 students per section (without window functions)
      - Missing submissions
 
-The `script` in `step #7` below builds school.db and prints results for the queries. 
+The `script` in `step #7` below builds <b>school.db</b> and prints results for the queries. 
 
 ## What it shows
 - Relational modeling with constraints
