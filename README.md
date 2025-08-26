@@ -24,7 +24,7 @@ The `script` in `step #7` below builds <b>school.db</b> and prints results for t
 -  chmod +x run.sh
 -  ./run.sh
 
-## Step 1) Create the project structure
+## `Step 1:` Create the project structure
 <img width="612" height="220" alt="Screen Shot 2025-08-25 at 8 05 12 PM" src="https://github.com/user-attachments/assets/6b807008-116c-44ad-bc4c-d9a7cc5ea096" /> <br>
 
 ## Step 2) Schema (tables + constraints)
